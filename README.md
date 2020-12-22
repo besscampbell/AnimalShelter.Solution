@@ -16,7 +16,7 @@ This is a program for an animal shelter to track the animals in their facility b
       - gender, 
       - date of admittance, and 
       - breed. 
-      ** added as a particular type.
+      * added as a particular type.
   - List animals by breed or type alphabetically.
   - List animals starting with the ones who have been in the shelter the longest.
 
@@ -107,4 +107,4 @@ No known bugs as of now.
 
 ### Legal, or License
 
-_MIT_ Copyright (c) 2020 *_Bess Campbell & Danielle Thompson_**
+_MIT_ Copyright (c) 2020 *_Bess Campbell & Danielle Thompson_*
