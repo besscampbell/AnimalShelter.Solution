@@ -20,6 +20,10 @@ This is a program for an animal shelter to track the animals in their facility b
   - List animals by breed or type alphabetically.
   - List animals starting with the ones who have been in the shelter the longest.
 
+  Below is our database schema graph. 
+
+![Animal Shelter Database Schema](/AnimalShelter/wwwroot/img/AnimalShelter_DbSchemaScreenshot.png)
+
 ## Technologies used
 
 - C# v 7.3
