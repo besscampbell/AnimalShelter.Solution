@@ -21,6 +21,9 @@ List animals starting with the ones who have been in the shelter the longest.
 - ASP.NET MVC Core
 - Razor
 - Entity Framework Core
+- RESTful Routing, HTTP
+- Bootstrap Library
+- CSHTML
 
 ## Installation Requirements
 
