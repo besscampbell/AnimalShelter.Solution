@@ -5,10 +5,10 @@ using System.Linq;
 
 namespace AnimalShelter.Controllers
 {
-  public class AnimalController : Controller
+  public class AnimalsController : Controller
   {
     private readonly AnimalShelterContext _db; //constructor
-    public AnimalController(AnimalShelterContext db) 
+    public AnimalsController(AnimalShelterContext db) 
     {
       _db = db;//sets new _db property
     }
